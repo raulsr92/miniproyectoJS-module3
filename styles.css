@@ -1,0 +1,30 @@
+
+/*
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main > section:nth-child(3) a{
+    width: 20%;
+    display: grid;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    padding: 10px;
+    z-index: 2;
+
+}
+
+main > section:nth-child(3) a > div:nth-child(2){
+    background-color: red;
+    z-index: 1;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 18px;
+    clip-path: path('M 0 150 Q 0,164 20,164 L 272, 164 Q 310,164 310,150' );}
+*/
