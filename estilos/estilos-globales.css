@@ -10,10 +10,22 @@
 /*===== FIN ESTILOS GLOBALES =====*/
 
 
+/*===== DECLARACIÓN DE VARIABLES DE COLORES =====*/
+
+:root{
+    --color-principal: #37003C;
+    --color-secundario: #734C76; 
+    --color-hover-1: #963CFF;
+    --color-hover-2: #FF2882;
+    --color-grises-1:#76766f;
+    --color-grises-2:#EBE5EB;
+    --color-grises-3:#F5F2F5;
+    --color-black:#000000;
+    --color-white:#ffffff;
+}
 
 
-
-
+/*===== FIN DECLARACIÓN DE VARIABLES DE COLORES =====*/
 
 
 
