@@ -3,11 +3,15 @@
 h1{
     font-size: 3rem;
     line-height: 4.5rem;
-    font-weight: 800;
+    font-family: miFuenteProyecto1-extrabold;
+}
+
+h2{
+    font-size: 1.25rem;
+    line-height: 1.88rem;
+    font-family: miFuenteProyecto1-extrabold;
+
 }
 
 /*===== FIN JERARQUÍA DE ENCABEZADOS =====*/
 
-a{
-    font-weight: 300;
-}
