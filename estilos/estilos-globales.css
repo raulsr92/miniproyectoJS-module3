@@ -22,17 +22,44 @@
     --color-grises-3:#F5F2F5;
     --color-black:#000000;
     --color-white:#ffffff;
+    font-size: 20px;
 }
 
 /*===== FIN DECLARACIÓN DE VARIABLES DE COLORES =====*/
 
 
 /*===== DECLARACIÓN DE LA FUENTE DEL PROYECTO =====*/
+@font-face {
+    font-family: miFuenteProyecto1-light;
+    src: url(/fonts/Poppins-Light.ttf);
+}
 
 @font-face {
-    font-family: miFuenteProyecto1;
+    font-family: miFuenteProyecto1-regular;
     src: url(/fonts/Poppins-Regular.ttf);
 }
+
+@font-face {
+    font-family: miFuenteProyecto1-medium;
+    src: url(/fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: miFuenteProyecto1-semibold;
+    src: url(/fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: miFuenteProyecto1-bold;
+    src: url(/fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: miFuenteProyecto1-extrabold;
+    src: url(/fonts/Poppins-ExtraBold.ttf);
+}
+
+
 
 /*===== FIN DE LA DECLARACIÓN DE LA FUENTE DEL PROYECTO =====*/
 
@@ -42,7 +69,7 @@
 body{
     width: 100%;
     height: auto;
-    font-family: miFuenteProyecto1;
+    font-family: miFuenteProyecto1-light;
 }
 
 /*===== FIN ESTILOS EN CONTENEDOR GENERAL =====*/
