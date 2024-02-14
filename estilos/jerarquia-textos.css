@@ -15,3 +15,27 @@ h2{
 
 /*===== FIN JERARQUÍA DE ENCABEZADOS =====*/
 
+.p-little{
+    font-size: 0.5rem;
+    line-height: 0.75rem;
+    font-family: miFuenteProyecto1-regular;
+}
+
+.p-content{
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+    font-family: miFuenteProyecto1-regular;
+}
+
+.p-lead{
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-family: miFuenteProyecto1-bold;
+    color: var(--color-principal);
+}
+
+.p-footer{
+    font-size: 0.55rem;
+    line-height: 0.83rem;
+    font-family: miFuenteProyecto1-bold;
+}
