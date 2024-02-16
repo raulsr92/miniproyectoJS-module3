@@ -74,6 +74,11 @@ body{
 
 /*===== FIN ESTILOS EN CONTENEDOR GENERAL =====*/
 
+/*===== ESTILOS GENERALES =====*/
+
+a{
+    text-decoration: none;
+}
 
 
 

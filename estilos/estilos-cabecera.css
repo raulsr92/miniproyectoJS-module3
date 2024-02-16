@@ -1,0 +1,36 @@
+
+header{
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding-left: 15px;
+}
+
+.enlace-logo img{
+    width: 90px;
+}
+
+.enlace-logo{
+    display: flex;
+    align-items: center;
+}
+
+.navbar__teams{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+*/
