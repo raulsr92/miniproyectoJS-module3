@@ -30,6 +30,16 @@ header{
     padding-bottom: 8px;
     padding-left: 38px;
     align-items: center;
+    column-gap: 20px;
+}
+
+.navbar__teams > div{
+    display: flex;
+}
+
+.navbar__teams > div > div{
+    display: flex;
+ 
 }
 
 .navbar__search{
@@ -69,7 +79,32 @@ header{
 }
 
 
+/*--HOVER EN ICONOS DE CABECERA-*/
 
+/*
+.navbar__teams > div > div{
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+.navbar__teams > div > div > a{
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar__teams > div > div > a > img{
+    width: 100%;
+}
+
+.navbar__teams > div > a:hover{
+    transform: scale(1.3);
+}
+
+
+/*---*/
 
 
 
