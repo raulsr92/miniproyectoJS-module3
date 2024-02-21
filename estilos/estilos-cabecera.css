@@ -35,11 +35,14 @@ header{
 
 .navbar__teams > div{
     display: flex;
+    
 }
 
 .navbar__teams > div > div{
     display: flex;
- 
+    width: 40px;
+    height: 40px;
+
 }
 
 .navbar__search{
@@ -83,7 +86,6 @@ header{
 
 /*
 .navbar__teams > div > div{
-    display: flex;
     width: 40px;
     height: 40px;
 }
