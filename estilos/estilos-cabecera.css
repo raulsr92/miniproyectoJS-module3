@@ -42,7 +42,6 @@ header{
     display: flex;
     width: 40px;
     height: 40px;
-
 }
 
 .navbar__search{
@@ -81,14 +80,31 @@ header{
     padding: 15px 18px;
 }
 
+/*--ESTILOS HIPERVÍNCULOS-*/
 
-/*--HOVER EN ICONOS DE CABECERA-*/
+.enlace-img-teams{
+  width: 32px;
+  height: 32px;
+  display: flex;
+}
+
+
+
+
+/*--FIN DE ESTILOS HIPERVÍNCULOS-*/
+
+
+
+
+
+
+
+
+
+
 
 /*
-.navbar__teams > div > div{
-    width: 40px;
-    height: 40px;
-}
+
 
 .navbar__teams > div > div > a{
     width: 32px;
