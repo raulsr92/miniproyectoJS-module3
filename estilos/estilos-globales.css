@@ -31,32 +31,32 @@
 /*===== DECLARACIÓN DE LA FUENTE DEL PROYECTO =====*/
 @font-face {
     font-family: miFuenteProyecto1-light;
-    src: url(/fonts/Poppins-Light.ttf);
+    src: url(./fonts/Poppins-Light.ttf);
 }
 
 @font-face {
     font-family: miFuenteProyecto1-regular;
-    src: url(/fonts/Poppins-Regular.ttf);
+    src: url(./fonts/Poppins-Regular.ttf);
 }
 
 @font-face {
     font-family: miFuenteProyecto1-medium;
-    src: url(/fonts/Poppins-Medium.ttf);
+    src: url(./fonts/Poppins-Medium.ttf);
 }
 
 @font-face {
     font-family: miFuenteProyecto1-semibold;
-    src: url(/fonts/Poppins-SemiBold.ttf);
+    src: url(./fonts/Poppins-SemiBold.ttf);
 }
 
 @font-face {
     font-family: miFuenteProyecto1-bold;
-    src: url(/fonts/Poppins-Bold.ttf);
+    src: url(./fonts/Poppins-Bold.ttf);
 }
 
 @font-face {
     font-family: miFuenteProyecto1-extrabold;
-    src: url(/fonts/Poppins-ExtraBold.ttf);
+    src: url(./fonts/Poppins-ExtraBold.ttf);
 }
 
 
