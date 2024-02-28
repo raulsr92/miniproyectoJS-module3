@@ -5,7 +5,7 @@ header{
     /*display: grid;
     grid-template-columns: 2fr 10fr;
     padding-left: 15px;*/
-    padding-top: 15px;
+    padding-top: 12px;
 }
 
 .enlace-logo img{
@@ -27,7 +27,7 @@ header{
     display: flex;
     grid-column: 2 / 3;
     grid-row: 1 / 2;
-    padding-bottom: 8px;
+    padding-bottom: 10px;
     padding-left: 38px;
     align-items: center;
     column-gap: 20px;
@@ -59,11 +59,6 @@ header{
     display: flex;
 }
 
-.navbar__search__left a{
-    padding: 15px 25px;
-    color: var(--color-white);
-}
-
 .navbar__search__right a{
     color: var(--color-white);
 }
@@ -88,11 +83,29 @@ header{
   width: 32px;
   height: 32px;
   display: flex;
+  transition: all 100ms ease-in-out;
 }
 
 .enlace-img-teams:hover{
-    transform: scale(1.2);
+    transform: scale(1.3);
 }
+
+.enlace-con-js{
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+    font-family: miFuenteProyecto1-bold;
+    display: flex;
+    align-items: center;
+    column-gap: 14px;
+    padding: 18px 25px;
+    color: var(--color-white);
+}
+
+.enlace-con-js i{
+    font-size: 0.6rem;
+}
+
+
 
 
 
@@ -101,13 +114,10 @@ header{
 
 
 
-
-
-
-
-
 /*
-
+.enlace-con-js i{
+    font-size: 0.6rem;
+}
 */
 
 
