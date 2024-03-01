@@ -109,11 +109,24 @@ header{
     width: 300px;
     display: flex;
     flex-direction: column;
+    position: relative;
+}
+
+.menu-hover-option i{
+    color: var(--color-hover-1);
+    transform: rotate(180deg);
+    font-size: 1.75rem;
+    position: absolute;
 }
 
 .menu-hover-option__list{
     background: var(--color-hover-1);
+    padding: 10px 17px;
+    display: flex;
+    flex-wrap: wrap;
 }
+
+
 
 
 
@@ -128,21 +141,13 @@ header{
 
 /*
 
-.menu-hover-option{
-    position: relative;
-}
+
 
 .menu-hover-option i{
-    color: var(--color-hover-1);
-    transform: rotate(180deg);
-    position: absolute;
-    font-size: 1.75rem;
     top: -1rem;
     right: calc(50% - 11px);
 
 }
-
-
 
 */
 
