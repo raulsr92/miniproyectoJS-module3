@@ -117,6 +117,9 @@ header{
     transform: rotate(180deg);
     font-size: 1.75rem;
     position: absolute;
+    top: calc(0% - 20px);
+    right: calc(50% - 11px);
+    
 }
 
 .menu-hover-option__list{
@@ -144,7 +147,6 @@ header{
 
 
 .menu-hover-option i{
-    top: -1rem;
     right: calc(50% - 11px);
 
 }
