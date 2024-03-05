@@ -106,7 +106,7 @@ header{
 }
 
 .menu-hover-option{
-    width: 300px;
+    width: 230px;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -119,15 +119,30 @@ header{
     position: absolute;
     top: calc(0% - 20px);
     right: calc(50% - 11px);
-    
 }
 
 .menu-hover-option__list{
     background: var(--color-hover-1);
-    padding: 10px 17px;
+    padding: 16px 18px;
     display: flex;
     flex-wrap: wrap;
+    column-gap: 14px;
 }
+
+.enlace-sub-menu{
+    color: var(--color-white);
+    font-size: 0.65rem;
+    font-family: miFuenteProyecto1-semibold;
+    width: 90px;
+    height: 29px;
+    display: flex;
+    align-items: center;
+}
+
+.enlace-sub-menu:hover{
+    text-decoration: underline;
+}
+
 
 
 
@@ -142,13 +157,13 @@ header{
 
 
 
+
 /*
 
 
-
-.menu-hover-option i{
-    right: calc(50% - 11px);
-
+.enlace-sub-menu{
+     display: flex;
+    align-items: center;
 }
 
 */
