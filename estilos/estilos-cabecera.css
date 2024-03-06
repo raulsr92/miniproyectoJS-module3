@@ -67,6 +67,7 @@ header{
     grid-column: 2 / 3;
     grid-row: 3 / 4;
     padding-left: 19px;
+    position: relative;
 }
 
 .navbar__extras div{
@@ -109,7 +110,8 @@ header{
     width: 230px;
     display: flex;
     flex-direction: column;
-    position: relative;
+    position: absolute;
+    top: 0%;
 }
 
 .menu-hover-option i{
