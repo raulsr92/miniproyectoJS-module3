@@ -22,11 +22,6 @@ function Teams(name, badge, stadium, city, website, kit1, kit2, kit3, mainPartne
 
 
 
-
-
-
-
-
 /* Creación de Objetos */
 
 /*
