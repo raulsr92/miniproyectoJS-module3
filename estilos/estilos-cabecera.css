@@ -101,6 +101,7 @@ header{
     column-gap: 14px;
     padding: 18px 25px;
     color: var(--color-white);
+    transition: all 100ms ease-in-out;
 }
 
 .enlace-con-js i{
@@ -159,6 +160,7 @@ header{
 
 
 /*--FIN DE ESTILOS HIPERVÍNCULOS-*/
+
 
 
 
